@@ -1,0 +1,11 @@
+li{
+	border: 2px solid red;
+}
+
+#special{
+	background: green;
+}
+
+.highlight{
+	text-decoration: line-through;
+}

@@ -1,0 +1,32 @@
+h1{
+	color: rgb(255, 0, 0);
+
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: dashed;*/
+
+	border: 5px solid purple;
+
+}
+
+li{
+	color: #000000;
+}
+
+h4{
+	color: rgba(11, 99, 150, .6);
+	background: rgb(120, 120, 120);
+}
+
+body{
+	background: pink;
+
+	/*background: url(https://www.xmple.com/wallpaper/white-black-graph-paper-grid-1920x1080-c2-fff0f5-000000-l2-8-128-a-0-f-20.svg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+
+
+
+
+
+}

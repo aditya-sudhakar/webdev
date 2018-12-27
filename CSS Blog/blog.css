@@ -1,0 +1,36 @@
+body{
+	border: 20px solid lightgray;
+	font-family: 'Muli';
+
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+div{
+	margin-left: 5%;
+	margin-right: 5%;
+
+	border-bottom: 3px solid lightgray;
+}
+
+h3{
+	font-family: 'Muli';
+	font-weight: 800;
+
+	color: #5499C7;
+}
+
+h1{
+	font-family: 'Muli';
+	font-weight: 800;	
+}
+
+.first{
+	border-left: 5px solid lightgray;
+	padding-left: 5px;
+}
+
+p{
+	font-family: 'Muli';
+	font-weight: 400;
+}
